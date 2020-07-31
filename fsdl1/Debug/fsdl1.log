@@ -1,0 +1,4 @@
+﻿  fsdl1.cpp
+D:\0学习\实习\fsdl1\fsdl1\fsdl1.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+D:\0学习\实习\fsdl1\fsdl1\fsdl1.cpp(57): warning C4101: “y_size”: 未引用的局部变量
+  fsdl1.vcxproj -> D:\0学习\实习\fsdl1\Debug\fsdl1.exe
